@@ -44,12 +44,6 @@
 
 ---
 
-###  GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MercySupremeAJ&show_icons=true&theme=default" />
-</p>
-
----
 
 ###  Current Focus
 - Strengthening **core Python foundations**
